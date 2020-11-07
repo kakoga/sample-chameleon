@@ -1,2 +1,2 @@
-# sample-chameleon
-working blueprint up to date as of 06-NOV-2020
+# Working Version of Chameleon Blueprint
+![Plate cover](https://raw.githubusercontent.com/PetDesk/chameleon-template-3.0/master/shield.png)
